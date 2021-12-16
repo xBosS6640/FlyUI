@@ -1,0 +1,11 @@
+name: FlyUI
+main: xBosS\Main
+version: 1.0
+api: [3.0.0]
+author: xBosS
+commands:
+  fly:
+    description: fly on survival mode.
+permissions:
+  fly.command:
+    default: op
