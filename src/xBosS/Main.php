@@ -11,7 +11,7 @@ use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\utils\TextFormat;
 use jojoe77777\FormAPI\FormAPI;
-use jojor77777\FormAPI\SimpleForm;
+use jojoe77777\FormAPI\SimpleForm;
 
 
 class Main extends PluginBase implements Listener {
