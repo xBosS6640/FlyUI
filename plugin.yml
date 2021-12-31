@@ -6,5 +6,3 @@ author: xBosS
 commands:
   fly:
     description: fly on survival mode.
-permissions:
-  fly.command:
