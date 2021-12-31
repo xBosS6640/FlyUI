@@ -8,4 +8,3 @@ commands:
     description: fly on survival mode.
 permissions:
   fly.command:
-    default: op
