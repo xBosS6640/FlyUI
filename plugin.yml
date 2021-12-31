@@ -1,7 +1,7 @@
 name: FlyUI
 main: xBosS\Main
 version: 1.0
-api: [3.0.0]
+api: [4.0.3]
 author: xBosS
 commands:
   fly:
